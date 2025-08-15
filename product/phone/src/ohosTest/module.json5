@@ -1,0 +1,13 @@
+{
+  "module": {
+    "name": "phone_test",
+    "type": "feature",
+    "deviceTypes": [
+      "phone",
+      "tablet",
+      "wearable"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false
+  }
+}

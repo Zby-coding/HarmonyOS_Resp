@@ -1,0 +1,16 @@
+{
+  "module": {
+    "name": "Home",
+    "type": "shared",
+    "description": "$string:shared_desc",
+    "routerMap": "$profile:router_map",
+    "deviceTypes": [
+      "phone",
+      "tablet",
+      "2in1",
+      "wearable"
+    ],
+    "deliveryWithInstall": true,
+    "pages": "$profile:main_pages"
+  }
+}

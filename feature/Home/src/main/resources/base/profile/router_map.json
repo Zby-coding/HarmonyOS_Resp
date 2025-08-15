@@ -1,0 +1,9 @@
+{
+  "routerMap": [
+    {
+      "name": "chatView",
+      "pageSourceFile": "src/main/ets/view/chatView.ets",
+      "buildFunction": "chatBuilder"
+    }
+  ]
+}
